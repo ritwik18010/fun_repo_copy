@@ -1,1 +1,2 @@
-Hello this is fun repo. Pushing this code from slave branch
+Hello this is fun repo. Pushing this code from slave branch. 
+Pushing this bit of code from master branch
